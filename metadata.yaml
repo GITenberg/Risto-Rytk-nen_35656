@@ -1,0 +1,28 @@
+_repo: Risto-Rytk-nen_35656
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aurén, Petter Wilhelm
+    alias: Auren, Petter Wilhelm
+    birthdate: 1826
+    deathdate: 1896
+    gutenberg_agent_id: '37807'
+    url: http://www.gutenberg.org/2009/agents/37807
+    wikipedia: http://fi.wikipedia.org/wiki/Petter_Wilhelm_Aur%C3%A9n
+description: ''
+gutenberg_issued: '2011-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35656'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: Risto Rytkönen
+url: http://www.gutenberg.org/ebooks/35656
